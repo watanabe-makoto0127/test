@@ -4,7 +4,7 @@
 <head><title>ログイン</title></head>
 <body>
 <img src="/DailySystem/View/img/banner.png">
-<h2>ログイン</h2>
+<h2>ロ</h2>
 <br>
 <form action="/DailySystem/login" method="post">
  ログイン ID：<input type="text" name="id"><br>
