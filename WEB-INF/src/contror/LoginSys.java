@@ -47,7 +47,7 @@ public class LoginSys extends HttpServlet{
 	 }
 	 // ログイン情報が不一致
 	 else {
-	 msg = "ログイン ID またはパスワードに誤りがあります";
+	 msg = "ログイン ID またはパスワードに誤りがありますss";
 	 }
 	 }
 	 // リクエストスコープにメッセージを格納
