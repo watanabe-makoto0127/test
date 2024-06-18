@@ -9,5 +9,5 @@
     <warLocation></warLocation>
     <extraInfo></extraInfo>
     <mavenClasspath>false</mavenClasspath>
-    <webPath>/DailySystem</webPath>
+    <webPath>/DailySyste</webPath>
 </tomcatProjectProperties>
