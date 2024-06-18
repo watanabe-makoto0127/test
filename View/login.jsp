@@ -11,5 +11,6 @@
  パスワード：<input type="password" name="pass"><br>
  <input type="submit" name="login" value="ログイン">
 </form>
+
 </body>
 </html>
